@@ -1,5 +1,5 @@
 ### Olá, sou a Danny! 👩‍💻 ♑
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=863ED2&size=26&lines=Let's+network!)](https://git.io/typing-svg)
 
 <div>
  <a href = "mailto:nielle.mps@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -7,15 +7,15 @@
  <a href="https://instagram.com/eu_daniz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 <blockquote class="tr_bq" style="clear: both; text-align:center;">
-Grandes progressos são feitos de um montes de pequenos passos!
+A little progress each day adds up to BIG RESULTS!
   </blockquote>
   
-<table border="0" width="100%">
+<table border="0" width="100%" >
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Especialista em:⤵️</b></td>
-    <td><b style="font-size:30px">Estudando muito:⤵️</b></td>
+    <td><b style="font-size:40px" text align="center">Especialista em:⤵️</b></td>
+    <td><b style="font-size:40px" text align="center">Estudando muito:⤵️</b></td>
  </tr>
  <tr>
     <td><div style="display: inline_block">
